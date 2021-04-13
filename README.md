@@ -1,5 +1,5 @@
 - 👋 Hi, I’m setzka
-- 👀 I’m interested every thing!
+- 👀 I’m interested in every thing!
 - 🌱 I’m currently learning python
 - 📫 How to reach me setayeshkaramian@gmail.com
 
